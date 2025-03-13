@@ -1,0 +1,92 @@
+[
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "question-sign",
+  "modified": "2022-08-03 11:53:40.731299",
+  "name": "Pending",
+  "style": "Warning",
+  "workflow_state_name": "Pending"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "ok-sign",
+  "modified": "2022-07-27 16:24:23.971985",
+  "name": "Approved",
+  "style": "Success",
+  "workflow_state_name": "Approved"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "remove",
+  "modified": "2022-07-27 16:24:23.975539",
+  "name": "Rejected",
+  "style": "Danger",
+  "workflow_state_name": "Rejected"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2022-08-03 11:51:31.636806",
+  "name": "In Progress",
+  "style": "Warning",
+  "workflow_state_name": "In Progress"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2022-08-03 11:48:41.856307",
+  "name": "Done",
+  "style": "Success",
+  "workflow_state_name": "Done"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2022-08-03 11:52:59.306193",
+  "name": "Draft",
+  "style": "Danger",
+  "workflow_state_name": "Draft"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2022-08-03 11:50:38.716280",
+  "name": "Revision",
+  "style": "Warning",
+  "workflow_state_name": "Revision"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2022-08-03 11:55:59.368907",
+  "name": "Received",
+  "style": "Success",
+  "workflow_state_name": "Received"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2022-08-03 11:52:33.157092",
+  "name": "In Transit",
+  "style": "Inverse",
+  "workflow_state_name": "In Transit"
+ },
+ {
+  "docstatus": 0,
+  "doctype": "Workflow State",
+  "icon": "",
+  "modified": "2022-08-03 11:55:54.028632",
+  "name": "Delivered",
+  "style": "Success",
+  "workflow_state_name": "Delivered"
+ }
+]

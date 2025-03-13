@@ -1,0 +1,62 @@
+{
+ "allow_roles": [
+  {
+   "role": "Delivery Manager"
+  },
+  {
+   "role": "Delivery User"
+  },
+  {
+   "role": "Fleet Manager"
+  },
+  {
+   "role": "Fulfillment User"
+  },
+  {
+   "role": "Stock Manager"
+  },
+  {
+   "role": "Stock User"
+  },
+  {
+   "role": "Sales Manager"
+  },
+  {
+   "role": "Accounts Manager"
+  },
+  {
+   "role": "Administrator"
+  }
+ ],
+ "creation": "2025-03-13 07:21:39.907734",
+ "docstatus": 0,
+ "doctype": "Module Onboarding",
+ "documentation_url": "https://frappe.io/erpnext/distribution/logistics-management-software",
+ "idx": 0,
+ "is_complete": 0,
+ "modified": "2025-03-13 07:24:10.896638",
+ "modified_by": "Administrator",
+ "module": "Ascra logistics",
+ "name": "Ascra Logistics",
+ "owner": "Administrator",
+ "steps": [
+  {
+   "step": "Company Set Up"
+  },
+  {
+   "step": "Create a Warehouse"
+  },
+  {
+   "step": "Create a Stock Entry"
+  },
+  {
+   "step": "Check Stock Ledger Report"
+  },
+  {
+   "step": "Stock Opening Balance"
+  }
+ ],
+ "subtitle": "shipping , freight ,Inventory, Warehouses, Analysis management and more.",
+ "success_message": "The Logistics App is all set up!",
+ "title": "Let's Set Up the Ascra Logistics App !"
+}
