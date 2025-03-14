@@ -8,9 +8,9 @@
   "for_user": "",
   "hide_custom": 0,
   "icon": "getting-started",
-  "indicator_color": null,
+  "indicator_color": "",
   "is_hidden": 0,
-  "label": "Home",
+  "label": "Setup",
   "links": [
    {
     "dependencies": null,
@@ -24,7 +24,7 @@
     "link_type": null,
     "onboard": 0,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -42,7 +42,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -60,7 +60,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -78,7 +78,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -96,7 +96,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -114,7 +114,7 @@
     "link_type": null,
     "onboard": 0,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -132,7 +132,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -150,7 +150,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -168,7 +168,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -186,7 +186,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -204,7 +204,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -222,7 +222,7 @@
     "link_type": null,
     "onboard": 0,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -240,7 +240,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -258,7 +258,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -276,7 +276,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -294,7 +294,7 @@
     "link_type": null,
     "onboard": 0,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -312,7 +312,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -330,7 +330,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -348,7 +348,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -366,7 +366,7 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
@@ -384,23 +384,23 @@
     "link_type": "DocType",
     "onboard": 1,
     "only_for": null,
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "links",
     "parenttype": "Workspace",
     "report_ref_doctype": null,
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:10.303447",
+  "modified": "2025-03-14 14:43:46.998722",
   "module": "Setup",
-  "name": "Home",
+  "name": "Setup",
   "number_cards": [],
   "parent_page": "Ascra Logistics",
   "public": 1,
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 2.0,
+  "sequence_id": 3.0,
   "shortcuts": [
    {
     "color": null,
@@ -410,7 +410,7 @@
     "kanban_board": null,
     "label": "Item",
     "link_to": "Item",
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "shortcuts",
     "parenttype": "Workspace",
     "restrict_to_domain": null,
@@ -426,7 +426,7 @@
     "kanban_board": null,
     "label": "Customer",
     "link_to": "Customer",
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "shortcuts",
     "parenttype": "Workspace",
     "restrict_to_domain": null,
@@ -442,7 +442,7 @@
     "kanban_board": null,
     "label": "Supplier",
     "link_to": "Supplier",
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "shortcuts",
     "parenttype": "Workspace",
     "restrict_to_domain": null,
@@ -458,7 +458,7 @@
     "kanban_board": null,
     "label": "Sales Invoice",
     "link_to": "Sales Invoice",
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "shortcuts",
     "parenttype": "Workspace",
     "restrict_to_domain": null,
@@ -474,7 +474,7 @@
     "kanban_board": null,
     "label": "Leaderboard",
     "link_to": "leaderboard",
-    "parent": "Home",
+    "parent": "Setup",
     "parentfield": "shortcuts",
     "parenttype": "Workspace",
     "restrict_to_domain": null,
@@ -483,7 +483,7 @@
     "url": null
    }
   ],
-  "title": "Home"
+  "title": "Setup"
  },
  {
   "charts": [
@@ -1209,7 +1209,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:11.832904",
+  "modified": "2025-03-14 14:40:42.762176",
   "module": "CRM",
   "name": "CRM",
   "number_cards": [],
@@ -1218,7 +1218,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 10.0,
+  "sequence_id": 11.0,
   "shortcuts": [
    {
     "color": "Blue",
@@ -2351,7 +2351,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:10.705826",
+  "modified": "2025-03-14 14:40:41.599928",
   "module": "Selling",
   "name": "Selling",
   "number_cards": [],
@@ -2360,7 +2360,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 4.0,
+  "sequence_id": 5.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -3329,7 +3329,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:10.454188",
+  "modified": "2025-03-14 14:40:41.379354",
   "module": "Buying",
   "name": "Buying",
   "number_cards": [],
@@ -3338,7 +3338,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 3.0,
+  "sequence_id": 4.0,
   "shortcuts": [
    {
     "color": "Green",
@@ -3847,7 +3847,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:12.188316",
+  "modified": "2025-03-14 14:40:43.114664",
   "module": "Website",
   "name": "Website",
   "number_cards": [],
@@ -3856,7 +3856,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 13.0,
+  "sequence_id": 14.0,
   "shortcuts": [
    {
     "color": "Green",
@@ -4513,7 +4513,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:12.315441",
+  "modified": "2025-03-14 14:40:43.247189",
   "module": "Automation",
   "name": "Tools",
   "number_cards": [],
@@ -4522,7 +4522,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 14.0,
+  "sequence_id": 15.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -4857,7 +4857,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:12.087579",
+  "modified": "2025-03-14 14:40:43.013170",
   "module": "Core",
   "name": "Users",
   "number_cards": [],
@@ -4866,7 +4866,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 12.0,
+  "sequence_id": 13.0,
   "shortcuts": [
    {
     "color": null,
@@ -5325,7 +5325,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:13.410371",
+  "modified": "2025-03-14 14:40:44.309863",
   "module": "Integrations",
   "name": "Integrations",
   "number_cards": [],
@@ -5334,7 +5334,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 21.0,
+  "sequence_id": 22.0,
   "shortcuts": [],
   "title": "Integrations"
  },
@@ -6332,7 +6332,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:12.608547",
+  "modified": "2025-03-14 14:40:43.534359",
   "module": "Accounts",
   "name": "Accounting",
   "number_cards": [
@@ -6370,7 +6370,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 16.0,
+  "sequence_id": 17.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -7799,7 +7799,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:10.979263",
+  "modified": "2025-03-14 14:40:41.876507",
   "module": "Stock",
   "name": "Stock",
   "number_cards": [
@@ -7830,7 +7830,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 5.0,
+  "sequence_id": 6.0,
   "shortcuts": [
    {
     "color": "Green",
@@ -8307,7 +8307,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:11.247214",
+  "modified": "2025-03-14 14:40:42.172345",
   "module": "Assets",
   "name": "Assets",
   "number_cards": [],
@@ -8316,7 +8316,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 6.0,
+  "sequence_id": 7.0,
   "shortcuts": [
    {
     "color": null,
@@ -8713,7 +8713,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:11.578282",
+  "modified": "2025-03-14 14:40:42.538892",
   "module": "Projects",
   "name": "Projects",
   "number_cards": [],
@@ -8722,7 +8722,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 8.0,
+  "sequence_id": 9.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -9125,7 +9125,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:11.993093",
+  "modified": "2025-03-14 14:40:42.920621",
   "module": "Support",
   "name": "Support",
   "number_cards": [],
@@ -9134,7 +9134,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 11.0,
+  "sequence_id": 12.0,
   "shortcuts": [
    {
     "color": "Yellow",
@@ -9435,7 +9435,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:11.705172",
+  "modified": "2025-03-14 14:40:42.642739",
   "module": "Quality Management",
   "name": "Quality",
   "number_cards": [],
@@ -9444,7 +9444,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 9.0,
+  "sequence_id": 10.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -10081,7 +10081,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:11.406721",
+  "modified": "2025-03-14 14:40:42.340702",
   "module": "Manufacturing",
   "name": "Manufacturing",
   "number_cards": [],
@@ -10090,7 +10090,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 7.0,
+  "sequence_id": 8.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -10665,7 +10665,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:12.450591",
+  "modified": "2025-03-14 14:40:43.381717",
   "module": "ERPNext Integrations",
   "name": "ERPNext Integrations",
   "number_cards": [],
@@ -10674,7 +10674,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 15.0,
+  "sequence_id": 16.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -11447,7 +11447,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:13.537759",
+  "modified": "2025-03-14 14:40:44.442409",
   "module": "Setup",
   "name": "ERPNext Settings",
   "number_cards": [],
@@ -11456,7 +11456,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 22.0,
+  "sequence_id": 23.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -11857,7 +11857,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:12.860193",
+  "modified": "2025-03-14 14:40:43.788664",
   "module": "Accounts",
   "name": "Payables",
   "number_cards": [],
@@ -11866,7 +11866,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 17.0,
+  "sequence_id": 18.0,
   "shortcuts": [
    {
     "color": null,
@@ -12273,7 +12273,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:12.977698",
+  "modified": "2025-03-14 14:40:43.903822",
   "module": "Accounts",
   "name": "Receivables",
   "number_cards": [],
@@ -12282,7 +12282,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 18.0,
+  "sequence_id": 19.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -12811,7 +12811,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:13.112962",
+  "modified": "2025-03-14 14:40:44.030767",
   "module": "Accounts",
   "name": "Financial Reports",
   "number_cards": [],
@@ -12820,13 +12820,13 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 19.0,
+  "sequence_id": 20.0,
   "shortcuts": [],
   "title": "Financial Reports"
  },
  {
   "charts": [],
-  "content": "[{\"id\":\"HC1UY7R3tu\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Ascra Logistics</span>\",\"col\":12}},{\"id\":\"lrGWs4uiRo\",\"type\":\"onboarding\",\"data\":{\"onboarding_name\":\"Ascra Logistics\",\"col\":12}}]",
+  "content": "[]",
   "custom_blocks": [],
   "docstatus": 0,
   "doctype": "Workspace",
@@ -12837,8 +12837,8 @@
   "is_hidden": 0,
   "label": "Ascra Logistics",
   "links": [],
-  "modified": "2025-03-13 07:42:10.248321",
-  "module": "",
+  "modified": "2025-03-14 14:41:31.811102",
+  "module": "Ascra logistics",
   "name": "Ascra Logistics",
   "number_cards": [],
   "parent_page": "",
@@ -13417,7 +13417,7 @@
     "type": "Link"
    }
   ],
-  "modified": "2025-03-13 07:42:13.264521",
+  "modified": "2025-03-14 14:40:44.173164",
   "module": "Core",
   "name": "Build",
   "number_cards": [],
@@ -13426,7 +13426,7 @@
   "quick_lists": [],
   "restrict_to_domain": "",
   "roles": [],
-  "sequence_id": 20.0,
+  "sequence_id": 21.0,
   "shortcuts": [
    {
     "color": "Grey",
@@ -13568,5 +13568,31 @@
   "sequence_id": 22.0,
   "shortcuts": [],
   "title": "Welcome Workspace"
+ },
+ {
+  "charts": [],
+  "content": "[{\"id\":\"sAEWvHcicG\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Logistics Home</span>\",\"col\":12}},{\"id\":\"PEGQWmVGm4\",\"type\":\"onboarding\",\"data\":{\"onboarding_name\":\"Ascra Logistics\",\"col\":12}}]",
+  "custom_blocks": [],
+  "docstatus": 0,
+  "doctype": "Workspace",
+  "for_user": "",
+  "hide_custom": 0,
+  "icon": "retail",
+  "indicator_color": "",
+  "is_hidden": 0,
+  "label": "Home",
+  "links": [],
+  "modified": "2025-03-14 14:43:56.704177",
+  "module": null,
+  "name": "Home",
+  "number_cards": [],
+  "parent_page": "Ascra Logistics",
+  "public": 1,
+  "quick_lists": [],
+  "restrict_to_domain": null,
+  "roles": [],
+  "sequence_id": 2.0,
+  "shortcuts": [],
+  "title": "Home"
  }
 ]
